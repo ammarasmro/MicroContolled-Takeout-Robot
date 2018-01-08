@@ -1,4 +1,4 @@
-# MicroContolle-Takeout-Robot
+# MicroContolled-Takeout-Robot
 
 
 ## Main Circuit design with Proteus
