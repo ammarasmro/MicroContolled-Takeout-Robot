@@ -2,4 +2,4 @@
 
 
 ## Main Circuit design with Proteus
-![](download.png)
+![](scatterplot_party.jpg)
