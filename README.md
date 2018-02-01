@@ -2,4 +2,4 @@
 
 
 ## Main Circuit design with Proteus
-![](downlaod.png)
+![](download.png)
